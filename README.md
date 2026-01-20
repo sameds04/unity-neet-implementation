@@ -2,6 +2,8 @@
 
 This project is an implementation of the NEET algorithm, developed by Kenneth Stanley and Risto Miikkulainen, within Unity.
 
+This was my final year project for university (as you can see from some of the file names).
+
 ## Installation
 
 This is a Unity 6 project file with the default Library folder removed, therefore opening this folder in Unity 6 works fine.
